@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c446d00e559fbf546b41fa499ae84871
+  - enabled: 1
+    path: Assets/Scenes/SlumLevel.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/CityDistrict.unity
+    guid: 9abd0bd84ea52154da88944b1f866d4b
+  - enabled: 1
+    path: Assets/Scenes/FactoryEntrance.unity
+    guid: 3fb4f78396847fb439a8d6d33b8eda9b
+  - enabled: 1
+    path: Assets/Scenes/FactoryRooftop.unity
+    guid: 416645614c2469f49a3daad144678c6b
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
